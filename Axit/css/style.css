@@ -53,7 +53,7 @@ p{
 }
 .header__content{
     height: auto;
-    background-image: url(/images/Slice_7.png);
+    background-image: url(../images/Slice_7.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,13 +138,10 @@ p{
 }
 /* // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575px) { ... }
-
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767px) { ... }
-
 // Medium devices (tablets, less than 992px)
 @media (max-width: 991px) { ... }
-
 // Large devices (desktops, less than 1200px)
 @media (max-width: 1199px) { ... } */
 
@@ -190,15 +187,10 @@ p{
     justify-content: space-between;
 }
 @media(max-width: 991px){
-    .first__SML{
-        /* margin-left: 0; */
-        
-    }
     .social__media__link{
         margin-left: 0;
     }
 }
-
 /* === / social__media === */
 /* ===   tabs   === */
 .tabs__section{
@@ -593,4 +585,3 @@ p{
     }
 }
 /* === / footer   === */
-
